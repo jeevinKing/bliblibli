@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jaeger/querylist": "^3.2",
+        "appbolaget/dd": "^1.1",
+        "jaeger/querylist-ext-dimage": "^1.1"
+    }
+}
